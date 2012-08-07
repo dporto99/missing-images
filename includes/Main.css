@@ -1,0 +1,42 @@
+/*!
+ * Ext JS Library 3.3.1
+ * Copyright(c) 2006-2010 Sencha Inc.
+ * licensing@sencha.com
+ * http://www.sencha.com/license
+ */
+body {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin-top: 5%;
+	background-color:#666666;
+	vertical-align:middle;
+}
+.accept{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/accept.png) !important;
+}
+.new{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/add.png) !important;
+}
+.cancel{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/cancel.png) !important;
+}
+.modify{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/pencil.png) !important;
+}
+.delete{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/delete.png) !important;
+}
+.assign{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/connect.png) !important;
+}
+.free{
+	background-image:url(../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/disconnect.png) !important;
+}
+.upload{
+    background: url('../../../Downloads/NacionTest/DavidPorto_NacionTest/images/icons/image_add.png') no-repeat 0 0 !important;
+}
+.no-file {
+  color: red;
+}
+.no-staging {
+  color: green;
+}
